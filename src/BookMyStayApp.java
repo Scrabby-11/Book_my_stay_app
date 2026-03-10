@@ -1,3 +1,12 @@
+class UseCase1HotelBookingApp{
+    public static void main(String[] args){
+        System.out.println("Welcome to Book My Stay!");
+        System.out.println("System initialized successfully.");
+    }
+}
+
+
 public class BookMyStayApp {
+
 
 }
